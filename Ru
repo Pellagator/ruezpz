@@ -1,0 +1,52 @@
+§tringcodeX§nippulation§
+
+——---------------------------------------------------
+
+// Ruby
+require 'rubygems'
+require 'sqlite3'
+puts "SQL"
+
+// Java
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Java");
+    }
+}
+
+// C
+#include <stdio.h>
+int main() {
+    printf("C");
+    return 0;
+}
+See
+// C++
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "C++";
+    return 0;
+}
+
+// Go
+package main
+import "fmt"
+func main() {
+    fmt.Println("Go")
+}
+
+// Python
+print("Python")
+
+// Swift
+let email = "md420@live.ca"
+let newEmail = "md420@email.com"
+let OTP: Int = 123456
+let recoveryKey: String = "QR Login code"
+print("Swift")
+
+// Final statement
+print("Code has successfully inserted itself into the password window and completed the project.")
